@@ -4,7 +4,7 @@ const div2 = document.querySelector('#red');
 const div3 = document.querySelector('#yellow');
 const div4 = document.querySelector('#green');
 
-// cores fixas com um selecionador
+// cores fixas com um selecionador.
 
 // criação dos blocoDiv
 function createPixels(n) {
